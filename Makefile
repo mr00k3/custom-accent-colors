@@ -10,5 +10,5 @@ install: $(GSCHEMAS)
 	cp -a ./custom-accent-colors@demiskp $(HOME)/.local/share/gnome-shell/extensions
 
 clean:
-	rm -rf $(HOME)/.local/share/gnome-shell/extensions/custom-accent-colors@demiskp
+	rm -rf $(HOME)/.local/share/gnome-shell/extensions/custom-accent-colors@mr00k3
 	rm -f $(GSCHEMAS)
