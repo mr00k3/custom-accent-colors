@@ -4,7 +4,7 @@ A GNOME Shell Extension that provides 8 Custom Accent Colors. The selected Accen
 
 You can install this extension from [extensions.gnome.org](https://extensions.gnome.org/extension/5547/custom-accent-colors).
 
-![Screenshot](/custom-accent-colors@demiskp/resources/screenshot.png)
+![Screenshot](/custom-accent-colors@mr00k3/resources/screenshot.png)
 
 
 ## Building
